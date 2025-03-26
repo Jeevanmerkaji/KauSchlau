@@ -12,7 +12,7 @@
 
   ## <a name="Overview">Overview</a>
 
-  KauSchlau is a comprehensive digital health application designed to help individuals manage and alleviate symptoms of bruxism (teeth grinding). By combining symptom tracking, guided therapeutic exercises, and progress monitoring, BruxEase creates a personalized approach to bruxism management.
+  KauSchlau is a comprehensive digital health application designed to help individuals manage and alleviate symptoms of bruxism (teeth grinding). By combining symptom tracking, guided therapeutic exercises, and progress monitoring, it creates a personalized approach to bruxism management.
 
   ### What is Bruxism?
 
