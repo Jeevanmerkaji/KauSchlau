@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">KauSchlau (A Self Care App for Bruxism)</h3>
+  <h3 align="center">🦷 KauSchlau (A Self Care App for Bruxism)</h3>
 
 </div>
 
